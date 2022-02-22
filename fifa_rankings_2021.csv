@@ -1,0 +1,211 @@
+country,score,continent,confederation
+Belgium,1780,Europe,UEFA
+France,1755,Europe,UEFA
+England,1670,Europe,UEFA
+Portugal,1662,Europe,UEFA
+Spain,1645,Europe,UEFA
+Italy,1625,Europe,UEFA
+Croatia,1617,Europe,UEFA
+Denmark,1614,Europe,UEFA
+Germany,1610,Europe,UEFA
+Netherlands,1609,Europe,UEFA
+Switzerland,1593,Europe,UEFA
+Wales,1562,Europe,UEFA
+Poland,1559,Europe,UEFA
+Sweden,1558,Europe,UEFA
+Austria,1531,Europe,UEFA
+Ukraine,1521,Europe,UEFA
+Serbia,1492,Europe,UEFA
+Turkey,1487,Europe,UEFA
+Slovakia,1478,Europe,UEFA
+Romania,1466,Europe,UEFA
+Russia,1461,Europe,UEFA
+Hungary,1460,Europe,UEFA
+Republic of Ireland,1456,Europe,UEFA
+Czech Republic,1456,Europe,UEFA
+Norway,1450,Europe,UEFA
+Northern Ireland,1440,Europe,UEFA
+Iceland,1438,Europe,UEFA
+Scotland,1436,Europe,UEFA
+Greece,1413,Europe,UEFA
+Finland,1411,Europe,UEFA
+Bosnia-Herzegovina,1410,Europe,UEFA
+Slovenia,1379,Europe,UEFA
+Montenegro,1370,Europe,UEFA
+North Macedonia,1362,Europe,UEFA
+Albania,1360,Europe,UEFA
+Bulgaria,1350,Europe,UEFA
+Israel,1279,Europe,UEFA
+Belarus,1269,Europe,UEFA
+Georgia,1267,Europe,UEFA
+Luxembourg,1235,Europe,UEFA
+Armenia,1233,Europe,UEFA
+Cyprus,1224,Europe,UEFA
+Faroe Islands,1183,Europe,UEFA
+Azerbaijan,1180,Europe,UEFA
+Estonia,1180,Europe,UEFA
+Kosovo,1155,Europe,UEFA
+Kazakhstan,1142,Europe,UEFA
+Lithuania,1114,Europe,UEFA
+Latvia,1082,Europe,UEFA
+Andorra,1048,Europe,UEFA
+Malta,951,Europe,UEFA
+Moldova,950,Europe,UEFA
+Liechtenstein,924,Europe,UEFA
+Gibraltar,888,Europe,UEFA
+San Marino,810,Europe,UEFA
+Brazil,1743,South America,CONMEBOL
+Argentina,1642,South America,CONMEBOL
+Uruguay,1639,South America,CONMEBOL
+Colombia,1601,South America,CONMEBOL
+Chile,1567,South America,CONMEBOL
+Peru,1512,South America,CONMEBOL
+Venezuela,1501,South America,CONMEBOL
+Paraguay,1476,South America,CONMEBOL
+Ecuador,1409,South America,CONMEBOL
+Bolivia,1307,South America,CONMEBOL
+Japan,1502,Asia,AFC
+Iran,1496,Asia,AFC
+Korea Republic,1465,Asia,AFC
+Australia,1457,Asia,AFC
+Qatar,1391,Asia,AFC
+Saudi Arabia,1353,Asia,AFC
+Iraq,1348,Asia,AFC
+UAE,1326,Asia,AFC
+China PR,1323,Asia,AFC
+Syria,1313,Asia,AFC
+Oman,1303,Asia,AFC
+Uzbekistan,1283,Asia,AFC
+Lebanon,1263,Asia,AFC
+Vietnam,1258,Asia,AFC
+Jordan,1243,Asia,AFC
+Kyrgyz Republic,1240,Asia,AFC
+Bahrain,1238,Asia,AFC
+Palestine,1206,Asia,AFC
+India,1187,Asia,AFC
+Thailand,1178,Asia,AFC
+Korea DPR,1170,Asia,AFC
+Tajikistan,1144,Asia,AFC
+Philippines,1136,Asia,AFC
+Turkmenistan,1107,Asia,AFC
+Myanmar,1081,Asia,AFC
+Chinese Taipei,1078,Asia,AFC
+Hong Kong,1072,Asia,AFC
+Yemen,1071,Asia,AFC
+Kuwait,1057,Asia,AFC
+Afghanistan,1052,Asia,AFC
+Malaysia,1040,Asia,AFC
+Maldives,1038,Asia,AFC
+Singapore,1020,Asia,AFC
+Nepal,968,Asia,AFC
+Indonesia,964,Asia,AFC
+Cambodia,964,Asia,AFC
+Macau,922,Asia,AFC
+Bangladesh,917,Asia,AFC
+Laos,912,Asia,AFC
+Bhutan,911,Asia,AFC
+Mongolia,906,Asia,AFC
+Brunei,904,Asia,AFC
+Timor-Leste,879,Asia,AFC
+Guam,873,Asia,AFC
+Pakistan,867,Asia,AFC
+Sri Lanka,853,Asia,AFC
+Senegal,1558,Africa,CAF
+Tunisia,1503,Africa,CAF
+Algeria,1488,Africa,CAF
+Morocco,1481,Africa,CAF
+Nigeria,1474,Africa,CAF
+Egypt,1432,Africa,CAF
+Cameroon,1427,Africa,CAF
+Ghana,1424,Africa,CAF
+Mali,1412,Africa,CAF
+Burkina Faso,1391,Africa,CAF
+Congo DR,1386,Africa,CAF
+Côte d'Ivoire,1384,Africa,CAF
+South Africa,1341,Africa,CAF
+Guinea,1334,Africa,CAF
+Cape Verde Islands,1306,Africa,CAF
+Benin,1302,Africa,CAF
+Uganda,1301,Africa,CAF
+Gabon,1280,Africa,CAF
+Congo,1265,Africa,CAF
+Zambia,1265,Africa,CAF
+Madagascar,1257,Africa,CAF
+Mauritania,1207,Africa,CAF
+Kenya,1187,Africa,CAF
+Mozambique,1185,Africa,CAF
+Libya,1177,Africa,CAF
+Zimbabwe,1176,Africa,CAF
+Niger,1172,Africa,CAF
+Central African Republic,1171,Africa,CAF
+Sierra Leone,1165,Africa,CAF
+Guinea-Bissau,1146,Africa,CAF
+Namibia,1143,Africa,CAF
+Malawi,1140,Africa,CAF
+Angola,1134,Africa,CAF
+Sudan,1124,Africa,CAF
+Togo,1115,Africa,CAF
+Comoros,1112,Africa,CAF
+Rwanda,1103,Africa,CAF
+Equatorial Guinea,1097,Africa,CAF
+Tanzania,1087,Africa,CAF
+Burundi,1078,Africa,CAF
+Lesotho,1072,Africa,CAF
+Ethiopia,1066,Africa,CAF
+Botswana,1066,Africa,CAF
+Liberia,1047,Africa,CAF
+Eswatini,1040,Africa,CAF
+Gambia,1034,Africa,CAF
+South Sudan,998,Africa,CAF
+Mauritius,965,Africa,CAF
+Chad,947,Africa,CAF
+Djibouti,919,Africa,CAF
+São Tomé e Príncipe,914,Africa,CAF
+Somalia,879,Africa,CAF
+Seychelles,866,Africa,CAF
+Eritrea,856,Africa,CAF
+Mexico,1632,North America,CONCACAF
+United States,1548,North America,CONCACAF
+Jamaica,1437,North America,CONCACAF
+Costa Rica,1427,North America,CONCACAF
+Honduras,1367,North America,CONCACAF
+El Salvador,1344,North America,CONCACAF
+Canada,1332,North America,CONCACAF
+Curaçao,1313,North America,CONCACAF
+Panama,1312,North America,CONCACAF
+Haiti,1285,North America,CONCACAF
+Trinidad and Tobago,1200,North America,CONCACAF
+Antigua and Barbuda,1127,North America,CONCACAF
+Guatemala,1112,North America,CONCACAF
+St. Kitts and Nevis,1074,North America,CONCACAF
+Suriname,1073,North America,CONCACAF
+Nicaragua,1055,North America,CONCACAF
+Dominican Republic,1018,North America,CONCACAF
+Grenada,1015,North America,CONCACAF
+Barbados,1009,North America,CONCACAF
+Guyana,988,North America,CONCACAF
+St. Vincent / Grenadines,986,North America,CONCACAF
+Bermuda,983,North America,CONCACAF
+Belize,974,North America,CONCACAF
+St. Lucia,953,North America,CONCACAF
+Puerto Rico,942,North America,CONCACAF
+Cuba,936,North America,CONCACAF
+Montserrat,921,North America,CONCACAF
+Dominica,919,North America,CONCACAF
+Cayman Islands,897,North America,CONCACAF
+Bahamas,880,North America,CONCACAF
+Aruba,867,North America,CONCACAF
+Turks and Caicos Islands,862,North America,CONCACAF
+US Virgin Islands,844,North America,CONCACAF
+British Virgin Islands,842,North America,CONCACAF
+Anguilla,821,North America,CONCACAF
+New Zealand,1149,Oceania,OFC
+Solomon Islands,1073,Oceania,OFC
+New Caledonia,1035,Oceania,OFC
+Tahiti,1014,Oceania,OFC
+Fiji,996,Oceania,OFC
+Vanuatu,996,Oceania,OFC
+Papua New Guinea,991,Oceania,OFC
+American Samoa,900,Oceania,OFC
+Samoa,894,Oceania,OFC
+Tonga,862,Oceania,OFC
